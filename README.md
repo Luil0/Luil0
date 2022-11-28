@@ -1,6 +1,6 @@
 <h1>Hi, I'm Luis</h1>
 
-<h2>Data Analysis Projects</h2>
+<h2>🧑‍💻 Data Analysis Projects</h2>
 
 - [Codecademy hurricane project](https://github.com/Luil0/hurricane_python_project)
 - [Insurance portfolio project](https://github.com/Luil0/insurance_portfolio_project)
