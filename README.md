@@ -2,9 +2,10 @@
 
 <h2>🧑‍💻 Data Analysis Projects</h2>
 
-- [Deaths and Causes projcet](https://github.com/Luil0/Deaths_and_cause)
-- [Codecademy hurricane project](https://github.com/Luil0/hurricane_python_project)
+- [Excel stock project](https://github.com/Luil0/Excel_stock_portfolio)
+- [Deaths and causes CDC project](https://github.com/Luil0/Deaths_and_cause)
 - [Insurance portfolio project](https://github.com/Luil0/insurance_portfolio_project)
+- [Codecademy hurricane project](https://github.com/Luil0/hurricane_python_project)
 
 <h2>connect with me</h2>
 
