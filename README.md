@@ -2,8 +2,8 @@
 
 <h2>🧑‍💻 Data Analysis Projects</h2>
 
-- [Excel stock project](https://github.com/Luil0/Excel_stock_portfolio)
 - [Deaths and causes CDC project](https://github.com/Luil0/Deaths_and_cause)
+- [Excel stock project](https://github.com/Luil0/Excel_stock_portfolio)
 - [Insurance portfolio project](https://github.com/Luil0/insurance_portfolio_project)
 - [Codecademy hurricane project](https://github.com/Luil0/hurricane_python_project)
 
