@@ -1,6 +1,6 @@
 <h1>Hi, I'm Luis!</h1>
 
-<h2>🧑‍💻 Data Analysis Projects</h2>
+<h2>🧑‍💻 Projects</h2>
 
 - [Deaths and causes CDC project](https://github.com/Luil0/Deaths_and_cause)
 - [Excel stock project](https://github.com/Luil0/Excel_stock_portfolio)
