@@ -2,7 +2,7 @@
 
 <h2>🧑‍💻 Projects</h2>
 
-- [Deaths and causes CDC project](https://github.com/Luil0/Deaths_and_cause)
+- [Team NFL Stats](https://github.com/Luil0/NFL_stats/blob/main/nfl_stats.ipynb#enroll-beta)
 - [Excel stock project](https://github.com/Luil0/Excel_stock_portfolio)
 - [Insurance portfolio project](https://github.com/Luil0/insurance_portfolio_project)
 - [Codecademy hurricane project](https://github.com/Luil0/hurricane_python_project)
