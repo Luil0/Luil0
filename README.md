@@ -1,6 +1,6 @@
 <h1>Hi, I'm Luis!</h1>
 
-<a href="https://luil0.github.io/"><h2>Github Website</h2></a>
+<a href="https://luil0.github.io/">Github Website</a>
 
 <h2>🧑‍💻 Projects</h2>
 
