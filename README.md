@@ -1,5 +1,7 @@
 <h1>Hi, I'm Luis!</h1>
 
+[<h2>Github Website</h2>](https://luil0.github.io/)
+
 <h2>🧑‍💻 Projects</h2>
 
 - [Team NFL Stats](https://github.com/Luil0/NFL_stats/blob/main/nfl_stats.ipynb#enroll-beta)
